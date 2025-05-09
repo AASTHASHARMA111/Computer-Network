@@ -46,7 +46,7 @@ Wireless – electromagnetic waves.
 Selection criteria: Distance, environment, data amount/speed, and cost.
 
 
-1.2.6 Review Questions
+### Review Questions
 Hosts are the devices that directly participate in network communication.
 
 Fiber-optic cables use pulses of light to transmit data.

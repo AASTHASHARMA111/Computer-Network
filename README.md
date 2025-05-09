@@ -52,3 +52,19 @@ Hosts are the devices that directly participate in network communication.
 Fiber-optic cables use pulses of light to transmit data.
 
 Routers and switches are examples of intermediary devices.
+
+Question 1
+Which connection physically connects the end device to the network?
+✅ NIC (Network Interface Card)
+
+Question 2
+Which connections are specialized ports on a networking device that connect to individual networks?
+✅ Interface
+
+Question 3
+Which type of network topology lets you see which end devices are connected to which intermediary devices and what media is being used?
+✅ Physical topology
+
+Question 4
+Which type of network topology lets you see the actual location of intermediary devices and cable installation?
+✅ Physical topology

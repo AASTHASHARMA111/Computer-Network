@@ -68,3 +68,15 @@ Which type of network topology lets you see which end devices are connected to w
 Question 4
 Which type of network topology lets you see the actual location of intermediary devices and cable installation?
 ✅ Physical topology
+
+Question 1
+Which network infrastructure provides access to users and end devices in a small geographical area, which is typically a network in a department in an enterprise, a home, or small business?
+✅ LAN (Local Area Network)
+
+Question 2
+Which network infrastructure might an organization use to provide secure and safe access to individuals who work for a different organization but require access to the organization’s data?
+✅ Extranet
+
+Question 3
+Which network infrastructure provides access to other networks over a large geographical area, which is often owned and managed by a telecommunications service provider?
+✅ WAN (Wide Area Network)
